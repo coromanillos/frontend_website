@@ -4,10 +4,18 @@ body {
   background-size: auto;
   color: #64ffda;
 }
+nav {
+  display: flex;
+  flex-direction: column; /* Align items vertically */
+}
 #first-div {
   background: #0a192f;
+  /*background: #0a192f;*/
 }
 .header-paragraph {
   font-size: 50px;
+  background: #0a192f;
+}
+.hyperlink {
   background: #0a192f;
 }

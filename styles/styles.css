@@ -1,10 +1,13 @@
 body {
-  background: #0a192f;
+  background-image: url(https://www.shutterstock.com/image-vector/cat-paws-fishbone-pattern-seamless-600nw-2285351209.jpg);
+  background-repeat: repeat;
+  background-size: auto;
   color: #64ffda;
 }
 #first-div {
-  background: pink;
+  background: #0a192f;
 }
 .header-paragraph {
   font-size: 50px;
+  background: #0a192f;
 }

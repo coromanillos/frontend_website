@@ -1,0 +1,16 @@
+html,
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+body {
+  background-color: #0a192f;
+  color: whitesmoke;
+}
+
+h3 {
+  color: #64ffda;
+  /*margin-left: 20px;*/
+}
